@@ -80,7 +80,7 @@ I'm building a strong foundation in data analytics while diving deeper into data
 I'm always excited to discuss data, analytics, and science! Feel free to reach out:
 
 - 📧 **Email**: [Get in touch](mailto:omkrishnayashkunwar@gmail.com)
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/your-profile)
+- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/om-krishna-yash-kunwar-50a506393)
 - 🐦 **Twitter**: [@your-handle](https://twitter.com/your-handle)
 - 📊 **Portfolio**: [View my work](https://your-portfolio.com)
 
